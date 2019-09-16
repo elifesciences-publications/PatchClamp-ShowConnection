@@ -22,3 +22,6 @@ The file name has to follow the exact same format datecX-cY.dat, where X is the 
 
 ## Output:
 No output. The plotted trace will automatically saved under the same directory.
+
+### This code is associated with the paper from Meng et al., "Neurexophilin4 is a selectively expressed α-neurexin ligand that modulates specific cerebellar synapses and motor functions". eLife, 2019. http://dx.doi.org/10.7554/eLife.46773
+
